@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FlowerShopManagentWebClient
+build_property.RootNamespace = FlowerShopManagentWebClient
+build_property.ProjectDir = D:\Download\semester8\PRN231\AssignmentV2\FlowerShopManagement\FlowerShopManagentWebClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Download\semester8\PRN231\AssignmentV2\FlowerShopManagement\FlowerShopManagentWebClient
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/AdminAreea/FlowerBouquet/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BcmVlYVxGbG93ZXJCb3VxdWV0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/AdminAreea/FlowerBouquet/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BcmVlYVxGbG93ZXJCb3VxdWV0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/AdminAreea/FlowerBouquet/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BcmVlYVxGbG93ZXJCb3VxdWV0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/AdminAreea/FlowerBouquet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BcmVlYVxGbG93ZXJCb3VxdWV0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/AdminAreea/Order/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BcmVlYVxPcmRlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/AdminAreea/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BcmVlYVxPcmRlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/AdminAreea/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BcmVlYVxPcmRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/CustomerArea/MyOrder/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJBcmVhXE15T3JkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/CustomerArea/MyOrder/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJBcmVhXE15T3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/CustomerArea/MyOrder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJBcmVhXE15T3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/Manage/AdminPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXEFkbWluUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/semester8/PRN231/AssignmentV2/FlowerShopManagement/FlowerShopManagentWebClient/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xux4kgrkzm

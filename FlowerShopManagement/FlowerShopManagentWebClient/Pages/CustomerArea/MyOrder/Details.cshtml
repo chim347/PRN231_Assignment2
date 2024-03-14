@@ -1,0 +1,136 @@
+﻿@page
+@model FlowerShopManagentWebClient.Pages.CustomerArea.MyOrder.DetailsModel
+
+@if (ViewData["Message"] != null)
+{
+    <h3 style="color:red">@ViewData["Message"]</h3>
+}
+@{
+
+}
+
+<div class="container-fluid">
+    <div class="d-flex align-items-center justify-content-between">
+        <h2>
+            Order Detail
+        </h2>
+        <a href="/CustomerArea/MyOrder/Index" class="btn btn-dark">Back</a>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <h5 class="text-primary">Order information</h5>
+            <dl class="row">
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Order.Id)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Order.Id)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Order.OrderDate)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Order.OrderDate)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Order.ShippedDate)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Order.ShippedDate)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Order.Total)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Order.Total)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Order.OrderStatus)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Order.OrderStatus)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Order.Freight)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Order.Freight)
+                </dd>
+            </dl>
+            <hr />
+            <h5 class="text-success">Customer information</h5>
+            <dl class="row">
+                <dt class="col-sm-4">
+                    Email
+                </dt>
+                <dd id="Email" class="col-sm-8"></dd>
+                <dt class="col-sm-4">
+                    Phone
+                </dt>
+                <dd id="Phone" class="col-sm-8"></dd>
+            </dl>
+        </div>
+        <div class="col-md-8">
+            <h5 class="text-danger">Items</h5>
+            <table class="table">
+                <thead>
+                    <tr class="bg-dark text-white">
+                        <th>
+                            Name
+                        </th>
+                        <th>
+                            UnitPrice
+                        </th>
+                        <th>
+                            Quantity
+                        </th>
+                        <th>
+                            Discount 
+                        </th>
+                        <th>
+                            Total
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.OrderDetail)
+                    {
+                        <tr>
+                            <td>
+                                @{
+                                    var flowerBouqetName = item.FlowerBouquet.FlowerBouquetName; 
+                                }
+                                @Html.DisplayFor(modelItem => flowerBouqetName)
+                            </td>
+                            <td>
+                                @{
+                                    var formattedUnitPrice = item.UnitPrice.ToString("#,##0") + " VND";
+                                }
+                                @formattedUnitPrice
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Quantity)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Discount)
+                            </td>
+                            <td>
+                                @{
+                                    var calculatedValue = item.Quantity * item.UnitPrice - item.Discount;
+                                    var formattedValue = calculatedValue.ToString("#,##0") + " VND";
+                                }
+                                @formattedValue
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+</div>
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>

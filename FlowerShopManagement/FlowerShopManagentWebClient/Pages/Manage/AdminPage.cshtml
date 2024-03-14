@@ -1,0 +1,22 @@
+﻿@page
+@model FlowerShopManagentWebClient.Pages.Manage.AdminPageModel
+@{
+}
+
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-6">
+            <div class="text-center">
+                <h1 class="display-4">Choose Options</h1>
+            </div>
+            <div class="mt-4">
+                <form method="get" class="text-center">
+                    <div class="mb-3">
+                        <button type="submit" class="btn btn-primary btn-lg btn-block mb-3" asp-page="/AdminAreea/FlowerBouquet/Index">Manage Flower Bouquet</button>
+                        <button type="submit" class="btn btn-primary btn-lg btn-block mb-3" asp-page="/AdminAreea/Order/Index">Manage Order</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

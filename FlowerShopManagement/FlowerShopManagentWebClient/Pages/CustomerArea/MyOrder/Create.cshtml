@@ -1,0 +1,87 @@
+﻿@page
+@model FlowerShopManagentWebClient.Pages.CustomerArea.MyOrder.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="container-fluid">
+    <div class="d-flex align-items-center justify-content-between">
+        <h2>
+            Create new order
+        </h2>
+        <a href="/CustomerArea/MyOrder" class="btn btn-dark">Back</a>
+    </div>
+    <hr />
+    <div class="row">
+        <form method="post">
+            <div class="col-md-8">
+                <div>
+                    <h5>Add flower bouquet:</h5>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label for="FlowerBouquet" class="control-label mb-1">Name</label>
+                                <select asp-for="FlowerBouquet.Id" class="form-control" asp-items="ViewBag.Id"></select>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label for="Quantity" class="control-label mb-1">Quantity</label>
+                                <input id="Quantity" value="1" min="1" type="number" class="form-control" required/>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="control-label"></label>
+                                <input id="AddToOrderBtn" type="submit" value="Add to order"
+                                       class="btn btn-warning d-block" />
+                                @* @foreach (var item in ViewBag.Id)
+                                {
+                                    <a href="/CustomerArea/MyOrder/Create?id=@item.Value&quantity=@Quantity" class="btn btn-warning d-block">Add to order</a>
+                                } *@
+                                @* <a href="/CustomerArea/MyOrder/Create?id=@Model.FlowerBouquet.Id&quantity=@Model.Quantity" class="btn btn-warning d-block">Add to order</a> *@
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div>
+                    <h5>Order details: <span class="text-danger">*</span></h5>
+                    <div id="OrderDetail-error" class="text-danger mb-3"></div>
+                    <table class="table table-sm table-hover table-bordered">
+                        <thead class="table-success">
+                            <tr>
+                                <th>Name</th>
+                                <th>Unit price</th>
+                                <th>Quantity</th>
+                                <th>Total</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody id="OrderDetails">
+                            <tr>
+                                <td colspan='5'>No data</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="form-group mb-2">
+                    <label for="Freight" class="control-label mb-1">Freight <span class="text-danger">*</span></label>
+                    <input id="Freight" class="form-control" />
+                    <span id="Freight-error" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create Order" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

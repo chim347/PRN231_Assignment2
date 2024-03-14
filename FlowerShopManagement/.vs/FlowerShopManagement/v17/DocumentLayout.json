@@ -1,0 +1,1234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\customerarea\\myorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\customerarea\\myorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\customerarea\\myorder\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\customerarea\\myorder\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\customerarea\\myorder\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\customerarea\\myorder\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\customerarea\\myorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\customerarea\\myorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\customerarea\\myorder\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\customerarea\\myorder\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\customerarea\\myorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\customerarea\\myorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopbusinessobject\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|solutionrelative:flowershopbusinessobject\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopdao\\orders\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|solutionrelative:flowershopdao\\orders\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\controllers\\orders\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\controllers\\orders\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\inheritance\\clientabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\inheritance\\clientabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\manage\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\manage\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\order\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\order\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopbusinessobject\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|solutionrelative:flowershopbusinessobject\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\order\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\order\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\order\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\order\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\controllers\\flowerbouquets\\flowerbouquetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\controllers\\flowerbouquets\\flowerbouquetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\flowerbouquets\\iflowerbouquetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\flowerbouquets\\iflowerbouquetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|d:\\download\\semester8\\prn231\\assignmentv2\\flowershopmanagement\\flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\adminareea\\flowerbouquet\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopbusinessobject\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|solutionrelative:flowershopbusinessobject\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopdao\\flowerboquets\\flowerbouquetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|solutionrelative:flowershopdao\\flowerboquets\\flowerbouquetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\orders\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\orders\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\controllers\\auth\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\controllers\\auth\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\orders\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\orders\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopbusinessobject\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|solutionrelative:flowershopbusinessobject\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopbusinessobject\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|solutionrelative:flowershopbusinessobject\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopdao\\customers\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|solutionrelative:flowershopdao\\customers\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\controllers\\customers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\controllers\\customers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopdao\\orderdetails\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|solutionrelative:flowershopdao\\orderdetails\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\orderdetails\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\orderdetails\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\orderdetails\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\orderdetails\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Download\\semester8\\PRN231\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307104757_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopbusinessobject\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|solutionrelative:flowershopbusinessobject\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopbusinessobject\\common\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|solutionrelative:flowershopbusinessobject\\common\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\models\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\models\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\models\\createorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\models\\createorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Download\\semester8\\PRN231\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307093556_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopdao\\accounts\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|solutionrelative:flowershopdao\\accounts\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopdao\\categories\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|solutionrelative:flowershopdao\\categories\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopdao\\suppliers\\supplierdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035B2263-7896-44BA-943F-FE0A14B981FB}|FlowerShopDAO\\FlowerShopDAO.csproj|solutionrelative:flowershopdao\\suppliers\\supplierdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\manage\\adminpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\manage\\adminpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\controllers\\suppliers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\controllers\\suppliers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\configureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\configureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\controllers\\categories\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\controllers\\categories\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\suppliers\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\suppliers\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\suppliers\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\suppliers\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\models\\createflowerbouquet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\models\\createflowerbouquet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\flowerbouquets\\flowerbouquetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\flowerbouquets\\flowerbouquetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\accounts\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\accounts\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershoprepository\\accounts\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E733C1-A311-42F1-9E22-778C5E34F99C}|FlowerShopRepository\\FlowerShopRepository.csproj|solutionrelative:flowershoprepository\\accounts\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB33FE48-1ABE-4887-9BF3-A00A633D3C77}|FlowerShopManagement\\FlowerShopManagement.csproj|solutionrelative:flowershopmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\flowershopmanagentwebclient\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E8324D-EC3A-4967-8518-F60286028A5A}|FlowerShopManagentWebClient\\FlowerShopManagentWebClient.csproj|solutionrelative:flowershopmanagentwebclient\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307110111_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB59FD1-F1F9-4A41-8739-D5B864357E07}|FlowerShopBusinessObject\\FlowerShopBusinessObject.csproj|solutionrelative:FlowerShopBusinessObject\\Migrations\\20240307110111_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Index.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Index.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T07:53:01.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Create.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Create.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T07:53:00.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Create.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Create.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Create.cshtml.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAADwvxwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:53:00.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "FlowerShopBusinessObject\\Entities\\Order.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Entities\\Order.cs",
+              "RelativeToolTip": "FlowerShopBusinessObject\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:20:02.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Index.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Index.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T04:32:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Edit.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Edit.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T04:32:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Index.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Index.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Index.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwCAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:53:01.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Program.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Program.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Program.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T08:49:24.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Create.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Create.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T04:32:31.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Details.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Details.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwDYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T07:53:00.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Create.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Create.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Create.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:32:31.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Details.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Details.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\CustomerArea\\MyOrder\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:53:00.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Edit.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:32:32.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Orders\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "FlowerShopDAO\\Orders\\OrderDAO.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Orders\\OrderDAO.cs",
+              "RelativeToolTip": "FlowerShopDAO\\Orders\\OrderDAO.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:12:52.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Index.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Index.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Index.cshtml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvyYAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:32:34.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminPage.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Manage\\AdminPage.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\Manage\\AdminPage.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Manage\\AdminPage.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\Manage\\AdminPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:07:29.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Index.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Index.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T07:51:24.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Orders\\OrderController.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Controllers\\Orders\\OrderController.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Orders\\OrderController.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Controllers\\Orders\\OrderController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAhwDkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:29:27.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientAbstract.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Inheritance\\ClientAbstract.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\Inheritance\\ClientAbstract.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Inheritance\\ClientAbstract.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\Inheritance\\ClientAbstract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvxcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T08:22:59.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Index.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Index.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:51:24.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T08:21:29.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "FlowerShopBusinessObject\\Entities\\OrderDetail.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "FlowerShopBusinessObject\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:50:13.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Details.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Details.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Details.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:51:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Delete.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Delete.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Delete.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T04:32:33.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Details.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Details.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T07:51:23.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Create.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Create.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T07:51:23.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Create.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Create.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\Order\\Create.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:51:23.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "FlowerShopBusinessObject\\Entities\\Supplier.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Entities\\Supplier.cs",
+              "RelativeToolTip": "FlowerShopBusinessObject\\Entities\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:37:53.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FlowerBouquetController.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\FlowerBouquets\\FlowerBouquetController.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Controllers\\FlowerBouquets\\FlowerBouquetController.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\FlowerBouquets\\FlowerBouquetController.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Controllers\\FlowerBouquets\\FlowerBouquetController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:38:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Delete.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\AdminAreea\\FlowerBouquet\\Delete.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:32:33.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IFlowerBouquetRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\FlowerBouquets\\IFlowerBouquetRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\FlowerBouquets\\IFlowerBouquetRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\FlowerBouquets\\IFlowerBouquetRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\FlowerBouquets\\IFlowerBouquetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:58:56.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Orders\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\Orders\\OrderRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Orders\\OrderRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\Orders\\OrderRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:11:31.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\DBContext\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "FlowerShopBusinessObject\\DBContext\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\DBContext\\ApplicationDBContext.cs",
+              "RelativeToolTip": "FlowerShopBusinessObject\\DBContext\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:34:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Login.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T08:13:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FlowerBouquetDAO.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\FlowerBoquets\\FlowerBouquetDAO.cs",
+              "RelativeDocumentMoniker": "FlowerShopDAO\\FlowerBoquets\\FlowerBouquetDAO.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\FlowerBoquets\\FlowerBouquetDAO.cs",
+              "RelativeToolTip": "FlowerShopDAO\\FlowerBoquets\\FlowerBouquetDAO.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:50:21.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthsController.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Auth\\AuthsController.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Controllers\\Auth\\AuthsController.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Auth\\AuthsController.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Controllers\\Auth\\AuthsController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T08:52:23.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T19:08:14.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Orders\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\Orders\\IOrderRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Orders\\IOrderRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\Orders\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:11:14.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "FlowerShopBusinessObject\\Entities\\Account.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Entities\\Account.cs",
+              "RelativeToolTip": "FlowerShopBusinessObject\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:22:28.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Customers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Controllers\\Customers\\CustomerController.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Customers\\CustomerController.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Controllers\\Customers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:03:47.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Customers\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "FlowerShopDAO\\Customers\\CustomerDAO.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Customers\\CustomerDAO.cs",
+              "RelativeToolTip": "FlowerShopDAO\\Customers\\CustomerDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:30:18.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T08:19:03.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T16:51:02.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240307110111_1.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307110111_1.cs",
+              "RelativeDocumentMoniker": "FlowerShopBusinessObject\\Migrations\\20240307110111_1.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307110111_1.cs",
+              "RelativeToolTip": "FlowerShopBusinessObject\\Migrations\\20240307110111_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:01:11.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\OrderDetails\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "FlowerShopDAO\\OrderDetails\\OrderDetailDAO.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\OrderDetails\\OrderDetailDAO.cs",
+              "RelativeToolTip": "FlowerShopDAO\\OrderDetails\\OrderDetailDAO.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAEQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:20:06.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\OrderDetails\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\OrderDetails\\IOrderDetailRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\OrderDetails\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\OrderDetails\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:25:23.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\OrderDetails\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\OrderDetails\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\OrderDetails\\OrderDetailRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\OrderDetails\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAEwA8AAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:25:15.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240307104757_1.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307104757_1.cs",
+              "RelativeDocumentMoniker": "..\\..\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307104757_1.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307104757_1.cs",
+              "RelativeToolTip": "..\\..\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307104757_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:47:57.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Common\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "FlowerShopBusinessObject\\Common\\BaseAuditableEntity.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Common\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "FlowerShopBusinessObject\\Common\\BaseAuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:37:30.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BaseEntities.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Common\\BaseEntities.cs",
+              "RelativeDocumentMoniker": "FlowerShopBusinessObject\\Common\\BaseEntities.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopBusinessObject\\Common\\BaseEntities.cs",
+              "RelativeToolTip": "FlowerShopBusinessObject\\Common\\BaseEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:37:11.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateOrder.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Models\\CreateOrder.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Models\\CreateOrder.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Models\\CreateOrder.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Models\\CreateOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:34:20.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateOrderDetail.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Models\\CreateOrderDetail.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Models\\CreateOrderDetail.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Models\\CreateOrderDetail.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Models\\CreateOrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:35:28.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240307093556_2.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307093556_2.cs",
+              "RelativeDocumentMoniker": "..\\..\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307093556_2.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307093556_2.cs",
+              "RelativeToolTip": "..\\..\\AssignmentV1\\FlowerShopManagement\\FlowerShopBusinessObject\\Migrations\\20240307093556_2.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:35:56.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Accounts\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "FlowerShopDAO\\Accounts\\AccountDAO.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Accounts\\AccountDAO.cs",
+              "RelativeToolTip": "FlowerShopDAO\\Accounts\\AccountDAO.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv0EAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:51:12.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Categories\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "FlowerShopDAO\\Categories\\CategoryDAO.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Categories\\CategoryDAO.cs",
+              "RelativeToolTip": "FlowerShopDAO\\Categories\\CategoryDAO.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:49:29.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SupplierDAO.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Suppliers\\SupplierDAO.cs",
+              "RelativeDocumentMoniker": "FlowerShopDAO\\Suppliers\\SupplierDAO.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopDAO\\Suppliers\\SupplierDAO.cs",
+              "RelativeToolTip": "FlowerShopDAO\\Suppliers\\SupplierDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:35:03.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Program.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Program.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Program.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T08:17:52.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AdminPage.cshtml.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Manage\\AdminPage.cshtml.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\Manage\\AdminPage.cshtml.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Manage\\AdminPage.cshtml.cs",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\Manage\\AdminPage.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:07:50.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Suppliers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Controllers\\Suppliers\\SupplierController.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Suppliers\\SupplierController.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Controllers\\Suppliers\\SupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:18:06.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ConfigureService.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\ConfigureService.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\ConfigureService.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\ConfigureService.cs",
+              "RelativeToolTip": "FlowerShopManagement\\ConfigureService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:01:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Categories\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Controllers\\Categories\\CategoryController.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Controllers\\Categories\\CategoryController.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Controllers\\Categories\\CategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:02:46.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Suppliers\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\Suppliers\\ISupplierRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Suppliers\\ISupplierRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\Suppliers\\ISupplierRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:29:41.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Suppliers\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\Suppliers\\SupplierRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Suppliers\\SupplierRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\Suppliers\\SupplierRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:32:46.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T08:18:50.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T03:06:30.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CreateFlowerBouquet.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Models\\CreateFlowerBouquet.cs",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Models\\CreateFlowerBouquet.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Models\\CreateFlowerBouquet.cs",
+              "RelativeToolTip": "FlowerShopManagement\\Models\\CreateFlowerBouquet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:41:55.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FlowerBouquetRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\FlowerBouquets\\FlowerBouquetRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\FlowerBouquets\\FlowerBouquetRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\FlowerBouquets\\FlowerBouquetRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\FlowerBouquets\\FlowerBouquetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:59:19.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Accounts\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\Accounts\\IAccountRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Accounts\\IAccountRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\Accounts\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:50:47.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FlowerShopManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T08:23:54.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Accounts\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShopRepository\\Accounts\\AccountRepository.cs",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopRepository\\Accounts\\AccountRepository.cs",
+              "RelativeToolTip": "FlowerShopRepository\\Accounts\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:51:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\appsettings.json",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\appsettings.json",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\appsettings.json",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T08:18:36.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "FlowerShopManagement\\appsettings.json",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagement\\appsettings.json",
+              "RelativeToolTip": "FlowerShopManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T08:18:26.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FlowerShopManagentWebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Download\\semester8\\PRN231\\AssignmentV2\\FlowerShopManagement\\FlowerShopManagentWebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FlowerShopManagentWebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T08:35:59.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
