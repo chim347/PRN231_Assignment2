@@ -565,3 +565,4 @@ D:\Download\semester8\PRN231\AssignmentV2\FlowerShopManagement\FlowerShopManagen
 D:\Download\semester8\PRN231\AssignmentV2\FlowerShopManagement\FlowerShopManagentWebClient\obj\Debug\net7.0\FlowerShopManagentWebClient.pdb
 D:\Download\semester8\PRN231\AssignmentV2\FlowerShopManagement\FlowerShopManagentWebClient\obj\Debug\net7.0\FlowerShopManagentWebClient.genruntimeconfig.cache
 D:\Download\semester8\PRN231\AssignmentV2\FlowerShopManagement\FlowerShopManagentWebClient\obj\Debug\net7.0\ref\FlowerShopManagentWebClient.dll
+D:\Download\semester8\PRN231\AssignmentV2\FlowerShopManagement\FlowerShopManagentWebClient\obj\Debug\net7.0\FlowerShopManagentWebClient.sourcelink.json

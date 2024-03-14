@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowerShopManagentWebClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a3f40d7fdd3a50460293008c64f6f5c6760432")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowerShopManagentWebClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowerShopManagentWebClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

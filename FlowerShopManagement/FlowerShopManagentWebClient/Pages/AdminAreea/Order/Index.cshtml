@@ -5,92 +5,79 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<div class="container-fluid">
+    <div class="d-flex justify-content-between align-items-center">
+        <h2>List orders</h2>
 
-<p>
-    <a asp-page="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].OrderDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].ShippedDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].Total)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].OrderStatus)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].Freight)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].Account)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].Created)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].CreateBy)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].LastModified)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].LastModifiedBy)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Order[0].IsDeleted)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model.Order) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.OrderDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ShippedDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Total)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.OrderStatus)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Freight)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Account.AccountPassword)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Created)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CreateBy)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.LastModified)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.LastModifiedBy)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IsDeleted)
-            </td>
-            <td>
-                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+        <p>
+            <a href="/AdminAreea/Order/Create" class="btn btn-dark">Create New Order</a>
+        </p>
+        <p>
+            <a href="/Manage/AdminPage" class="btn btn-dark">Back to menu</a>
+        </p>
+    </div>
+    <table class="table table-striped table-hover table-bordered m-2">
+        <thead class="table-dark">
+            <tr>
+                <th>Customer email</th>
+                <th>Order date</th>
+                <th>Ship date</th>
+                <th>Amount</th>
+                <th>Status</th>
+                <th>Freight</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Orders)
+            {
+                <tr>
+                    <td>
+                        @{
+                            var customerName = item.Account.EmailAddress;
+                        }
+                        @customerName
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ShippedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Total)
+                    </td>
+                    <td>
+                        @if (item.OrderStatus == 0)
+                        {
+                            <span class='text-info'>Pending</span>
+                        }
+                        else if (item.OrderStatus == 1)
+                        {
+                            <span class='text-success'>Shipped</span>
+                        }
+                        else if (item.OrderStatus == 2)
+                        {
+                            <span class='text-danger'>Cancelled</span>
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Freight)
+                    </td>
+                    <td style="display: flex; align-items: center;">
+                        <a class='btn btn-primary' asp-page="./Details" asp-route-id="@item.Id">Details</a>
+                        @if (item.OrderStatus == 0)
+                        {
+                            <form method="post" asp-page-handler="Ship" asp-route-id="@item.Id" style="display: inline-block;">
+                                <button type="submit" class='btn btn-success ms-2'>Shipped</button>
+                            </form>
+                            <form method="post" asp-page-handler="Cancel" asp-route-id="@item.Id" style="display: inline-block;">
+                                <button type="submit" class='btn btn-danger ms-2'>Cancelled</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
